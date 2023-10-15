@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Serif+Pro&display=swap');
+
+.container{
+  width: 400px;
+  height: 300px;
+  margin: 50px auto;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  border-radius: 5px;
+  font-family: 'Source Serif Pro';
+
+}
+h2{
+  padding: 5px;
+}
+
+textarea {
+  width: 350px;
+  height: 100px;
+  padding: 10px;
+  border-radius: 10px;
+  font-family: 'Source Serif Pro';
+}
+
+.word-count{
+  padding-left: 15px;
+}
+
